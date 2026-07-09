@@ -35,7 +35,7 @@ Documentation for my future penguinmod project
 
 #### 2 - joe.what["insert question here"] - Works like an input from js or python
 
-#### 3 - joe.sleepy['1'] - Waits the seconds set in theinput
+#### 3 - joe.sleepy['1'] - Waits the seconds set in the input
 
 #### 4 - joe.clear[] - clears the output
 
