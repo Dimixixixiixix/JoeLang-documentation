@@ -48,5 +48,30 @@ Documentation for my future penguinmod project
 
 #### 1 - math.['1 + 1'] - runs any equation no matter what operator uses or the length of the operator
 
+# Default Variables (Variables that exist since you open the page)
+
+#### 1 - |answer| (Text recieved after a joe.what[""] command)
+
 # Link of the project
 #### https://dimixixixiixix.github.io/JoeLang-documentation/
+
+# EXAMPLE CODE:
+
+#### Questions
+
+joe.says["hi"] 
+joe.sleepy['1']
+joe.what["Whats your name :^"]
+joe.sleepy['1']
+joe.says["|answer| is a great name!"]
+
+#### Looped
+[loop]joe.says["Spam"][loop]
+
+#### Variables and Math
+joe.what["How old are you?"]
+joe.build["age" '|answer|']
+joe.sleepy['2']
+joe.what["Whats your name?"]
+joe.sleepy['1']
+joe.says["You are |age| years old and your name is |answer|"]
