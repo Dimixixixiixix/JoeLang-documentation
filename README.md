@@ -33,9 +33,9 @@ Documentation for my future penguinmod project
 # Commands
 #### 1 - joe.says["insert text here"] - Prints text into the output
 
-#### 2 - joe.what["insert questuon here"] - Works like an input from js or python
+#### 2 - joe.what["insert question here"] - Works like an input from js or python
 
-#### 3 - joe.sleepy['1'] - Waits the seconds inputted
+#### 3 - joe.sleepy['1'] - Waits the seconds set in theinput
 
 #### 4 - joe.clear[] - clears the output
 
