@@ -49,4 +49,4 @@ Documentation for my future penguinmod project
 #### 1 - math.['1 + 1'] - runs any equation no matter what operator uses or the length of the operator
 
 # Link of the project
-#### Sorry the lang is not yet uploaded :(
+#### https://dimixixixiixix.github.io/JoeLang-documentation/
