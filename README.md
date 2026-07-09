@@ -1,13 +1,13 @@
 # JoeLang-documentation
 Documentation for my future penguinmod project
 # Syntax
-#### every command must start must start with joe. (this is just for style purposes, might change in a future
+#### Every command must start must start with joe. (this is just for style purposes, might change in a future
 
-#### every command must have squared parenthesis [ and ] this helps the system check if the command qctually exists
+#### Every command must have squared parenthesis [ and ] this helps the system check if the command actually exists
 
 (if it dosent have them it is very probable that you will get a "syntax error, command does not exist")
 
-#### the command name always goes after joe. and before the first [
+#### The command name always goes after joe. and before the first [
 
 #### Tags go at the start and end of the command you want to place it
 
