@@ -57,21 +57,24 @@ Documentation for my future penguinmod project
 
 # EXAMPLE CODE:
 
-#### Questions
+### Questions
 
-joe.says["hi"] 
-joe.sleepy['1']
-joe.what["Whats your name :^"]
-joe.sleepy['1']
-joe.says["|answer| is a great name!"]
+#### joe.says["hi"] 
+#### joe.sleepy['1']
+#### joe.what["Whats your name :^"]
+#### joe.sleepy['1']
+#### joe.says["|answer| is a great name!"]
 
-#### Looped
-[loop]joe.says["Spam"][loop]
+### Looped
 
-#### Variables and Math
-joe.what["How old are you?"]
-joe.build["age" '|answer|']
-joe.sleepy['2']
-joe.what["Whats your name?"]
-joe.sleepy['1']
-joe.says["You are |age| years old and your name is |answer|"]
+#### [loop]joe.says["Spam"][loop]
+
+### Variables and Math
+
+#### joe.what[“How old are you?”] joe.build[“age” ‘|answer|’]
+#### joe.sleepy[‘2’]
+#### joe.what[“Whats your name?”]
+#### joe.sleepy[‘1’]
+#### joe.says[“You will be math.[‘|age| + 1’] in a year”]
+#### joe.sleepy[‘1’]
+#### joe.says[“You are |age| years old and your name is |answer|”]
