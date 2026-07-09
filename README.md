@@ -28,7 +28,6 @@ Documentation for my future penguinmod project
 #### 2 - '' for numbers
 
 #### 3 - || for vars 
-(as i write this you cant make vars yet, the only accsesible var is the answer one as it is made by default)
 
 # Commands
 #### 1 - joe.says["insert text here"] - Prints text into the output
@@ -38,6 +37,8 @@ Documentation for my future penguinmod project
 #### 3 - joe.sleepy['1'] - Waits the seconds set in the input
 
 #### 4 - joe.clear[] - clears the output
+
+#### 5 - joe.build["var name" '1'] - makes a variable
 
 # Tags
 
